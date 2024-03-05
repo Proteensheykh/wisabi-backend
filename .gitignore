@@ -38,3 +38,6 @@ yarn-error.log*
 
 # sqlite file
 db.sqlite3
+
+# environment variables
+*.env
